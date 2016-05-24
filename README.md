@@ -1,5 +1,4 @@
 # frontend-nanodegree-arcade-game
----------------------------------
 An interesting arcade game where the canvas and OOP techniques are used.
 
 ## Getting started
